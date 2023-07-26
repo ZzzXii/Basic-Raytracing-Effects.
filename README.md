@@ -1,6 +1,7 @@
 Introduction to Raytracing and Shading
 ======================================
 CSC 305
+
 This assignment aims to implement your first ray tracer and get familiar with different shading.
 In the first exercise, you will implement a raytracer to render spheres and planes with different projections.
 In the second exercise, you will extend the ray tracer to support different shading.
